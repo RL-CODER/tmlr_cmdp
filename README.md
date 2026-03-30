@@ -1,4 +1,4 @@
-This repository contains the code to simulate Constrained Markov Decision Processes (CMDPs) with adversarial losses and constraints, and to compare the performance of FAG-K, BAG-K, FAG-U, and BAG-U with their corresponding theoretical worst-case bounds.
+This repository contains the code to simulate Constrained Markov Decision Processes (CMDPs) with adversarial losses and constraints, and to compare the performance of the proposed algorithms.
 
 ## REQUIREMENTS ##
 See the file "requirements.txt."
